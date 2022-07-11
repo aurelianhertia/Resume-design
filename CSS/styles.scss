@@ -12,13 +12,13 @@ body{background: var(--background);}
 .col-div-8{width: 65%; float: left;}
 .col-div-6{width: 50%; float: left; position: relative;}
 .clearfix{clear: both;}
-.resume-main{width: 700px; height: 800px;
+.resume-main{width: 900px; height: auto;
   background: linear-gradient(var(--black), var(--black));
   margin: 50px auto;
   box-shadow:5px 5px 5px 5px #54585d33;
 }
 .left-box{width: 35%; float: left; height: 700px;}
-.right-box{width: 65%; float: left; background-color: var(--white); height: 700px;
+.right-box{width: 65%; float: left; background-color: var(--white); height: auto;
   margin: 50px 0px; border-radius: 50px 0px 0px 50px; padding:30px 50px;
   box-shadow: -7px 2px 15px 2px #54585d52;}
 .profile{width: 150px; height: 150px; border: 3px solid var(--white);
@@ -62,5 +62,5 @@ h1 span{color: var(--black);}
 .heading{text-transform: uppercase;font-weight: 500;color: var(--black);
   letter-spacing: 1px; font-size: 20px;}
 .hr2{border: none; height: 1px; background: var(--black); margin-top: 3px;}
-.p5{font-weight: 700;color: var(--black);}
+.p5{font-weight: 500;color: var(--black);}
 .span1{font-size: 12px;color: var(--black);}

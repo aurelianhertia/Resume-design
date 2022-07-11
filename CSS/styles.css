@@ -38,8 +38,8 @@ body {
   clear: both; }
 
 .resume-main {
-  width: 700px;
-  height: 800px;
+  width: 900px;
+  height: auto;
   background: linear-gradient(var(--black), var(--black));
   margin: 50px auto;
   box-shadow: 5px 5px 5px 5px #54585d33; }
@@ -53,7 +53,7 @@ body {
   width: 65%;
   float: left;
   background-color: var(--white);
-  height: 700px;
+  height: auto;
   margin: 50px 0px;
   border-radius: 50px 0px 0px 50px;
   padding: 30px 50px;
@@ -188,7 +188,7 @@ h1 span {
   margin-top: 3px; }
 
 .p5 {
-  font-weight: 700;
+  font-weight: 500;
   color: var(--black); }
 
 .span1 {
