@@ -32,7 +32,7 @@ a:hover {color:white;}
 .content-box h2{text-transform: uppercase;font-weight: 500;color: var(--white);
   letter-spacing: 1px; font-size: 20px;}
 .hr1{border: none; height: 1px; background: var(--white); margin-top: 3px;}
-.p1{font-size: 11px;color: var(--white);letter-spacing: 1px;padding-top: 12px;}
+.p1{font-size: 11px;color: var(--white);letter-spacing: 1px;padding-top: 12px;  text-align: justify;}
 #progress {background: var(--process);border-radius: 13px;height: 8px;width: 100%;}
 #progress:after {
   content: '';
