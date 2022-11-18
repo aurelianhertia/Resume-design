@@ -12,6 +12,8 @@
 
 body {
   background: var(--background); }
+  font-family: -apple-system, 
+                BlinkMacSystemFont, sans-serif;
 
 a:link {
   color: white; }
